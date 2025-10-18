@@ -1,0 +1,88 @@
+
+ <!--
+                body {
+            	background-color: ;
+            
+
+
+
+
+
+            background-position:top center;margin-left:0px;
+            COLOR:#333;
+            margin-top: 0px;margin-right: 0px;margin-bottom:0px;
+            font-size: 14px;
+            }
+            A:link {
+            FONT-SIZE: 14px;
+            COLOR: #333;
+            TEXT-DECORATION: none}
+            A:visited {
+            FONT-SIZE: 14px;
+            COLOR: #333;
+            TEXT-DECORATION: none}
+            A:hover {
+            FONT-SIZE: 14px;
+            COLOR: #333;
+            TEXT-DECORATION: none}
+            
+
+
+/*导航样式开始*/
+
+            #webdh {
+            text-align:center;
+            vertical-align:middle;
+            width: 1400px;
+            height:px;
+            margin: 0 auto;
+            font-size: 14px;
+            font-weight: normal;
+            COLOR: ;
+            
+            	background-color: ;
+            
+            overflow:hidden;
+            }
+            #webdh A:link {FONT-SIZE: 14px;COLOR: ; TEXT-DECORATION: none}
+            #webdh A:visited {FONT-SIZE: 14px;COLOR: ; TEXT-DECORATION: none}
+            #webdh A:hover {FONT-SIZE: 14px;COLOR: ; TEXT-DECORATION: none}
+            #copy {text-align:center;width:1400px;margin: 0 auto; line-height:150%;}
+            .clear {clear:both; height:0; overflow:hidden; display:block;}
+            .clearfix:after {clear:both; height:0; overflow:hidden; display:block; visibility:hidden; content:"."; }
+            -->
+            
+
+/*中间内容开始*/
+
+#bodycon {width:1400px;margin: 0 auto;}
+#bodycon #left {float: left;width: px;
+
+            	background-color: ;
+            
+}
+#bodycon #center {float:left;width: 1400px;
+
+            	background-color: ;
+            
+}
+#bodycon #right {float:left;width: px;
+
+            	background-color: ;
+            
+}
+            
+/*中间内容结束*/
+
+
+/*详细内容开始*/
+
+            #bodycontent {width:1400px;
+            margin: 0 auto;
+            line-height:180%;text-align:center;}
+            #bodycontent.bodycontent2020 {
+                text-align:left;
+            }
+            
+/*详细内容结束*/
+

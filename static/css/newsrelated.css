@@ -1,0 +1,21 @@
+.information { width:100%; margin:auto; border: solid 1px #ccc; box-sizing:border-box; padding:2%; overflow:hidden;}
+.information_til { width:100%; height:40px; line-height:40px; border-bottom: solid 1px #ccc; padding-bottom:15px; margin-bottom:20px;}
+.information_til strong { font-size:22px; color:#222;}
+.information_til span { font-family:Arial, Helvetica, sans-serif; color:#888; font-size:14px; padding-left:10px; text-transform:uppercase;}
+
+.information_miaosu {width:100%; height: auto; border-bottom: solid 1px #ccc; padding-bottom:20px; margin-bottom:15px; overflow:hidden;}
+.information_miaosu dl dt { float:left; width:15%; height: auto;}
+.information_miaosu dl dt img { width:100%; height:100%;}
+.information_miaosu dl dd { width:84%; float:right; height:160px;}
+.information_miaosu dl dd strong { color:#222; font-size:18px; display:block; margin-bottom:15px;}
+.information_miaosu dl dd span { display:block; line-height:28px; color:#444;}
+.information_miaosu dl dd li { width:120px; margin-top:12px; height:35px; line-height:35px; border-radius:5px; background:#222; text-align:center;}
+.information_miaosu dl dd li a { color:#fff;}
+.information_miaosu dl dd li:hover { background:#5ac42c;}
+
+.information_list {width:100%; overflow:hidden;}
+.information_list li { float:left; width:49%; height:50px; line-height:50px; border-bottom: dashed 1px #ccc;}
+.information_list li:nth-child(odd) { margin-right:2%;}
+.information_list li span { background:url(../image/xgzx.png) left no-repeat; float:left; display:block;}
+.information_list li span a { font-size:15px; padding-left:20px; display:block;}
+.information_list li strong { display:block; float:right; font-weight:normal; color:#444;}
